@@ -1,5 +1,6 @@
 # Custom 404 
-## An html page for displaying custom 404
+## An html page for displaying custom 404 
+### [Try it 🡥](https://abhishekbaiju.github.io/404)
 ### Technologies
 Project is created with:
 * Bootstrap
