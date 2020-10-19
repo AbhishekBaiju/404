@@ -1,4 +1,4 @@
-# Custom 404
+# Custom 404 [example](https://abhishekbaiju.github.io/404)
 ## An html page for displaying custom 404
 ### Technologies
 Project is created with:
