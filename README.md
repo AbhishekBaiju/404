@@ -1,4 +1,4 @@
-# Custom 404 [example](https://abhishekbaiju.github.io/404)
+# Custom 404 
 ## An html page for displaying custom 404
 ### Technologies
 Project is created with:
@@ -7,3 +7,4 @@ Project is created with:
 ### How to Add this to your Repository?
 All you have to do is change the name from ```index.html``` to ```404.html```
 and also change stuff in the html tooo!
+#### [Try it 🡥](https://abhishekbaiju.github.io/404)
