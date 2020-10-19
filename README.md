@@ -1,2 +1,2 @@
-# 404
-An html page for displaying custom 404
+# Custom 404
+## An html page for displaying custom 404
